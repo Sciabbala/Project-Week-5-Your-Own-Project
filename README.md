@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Wildfires in the US
 *Emanuele De Sanctis*
 
 *Data Analysis, Barcelona, 31-07-2019 *
@@ -48,7 +48,6 @@ I created a trello board for general planning and of course created a repository
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/Sciabbala/Project-Week-5-Your-Own-Project)  
 [Slides](https://slides.com/)  
