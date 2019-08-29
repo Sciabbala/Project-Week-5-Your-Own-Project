@@ -37,9 +37,11 @@ Citation: Short, Karen C. 2017. Spatial wildfire occurrence data for the United 
 <a name="workflow"></a>
 
 ## Workflow
-I have found a very detailed and clean dataset and cleaned it further to keep only the information that were required by my analysis. I then conducted a general exploratory analysis and basic plotting to better understand the evolution of the phenomenon through the years and to get a better idea about which kind of information I was working with.
+I have found a very detailed and clean dataset and cleaned it further to keep only the information that were required by my analysis. 
+I then conducted a general exploratory analysis and basic plotting to better understand the evolution of the phenomenon through the years and to get a better idea about which kind of information I was working with.
+After the process was completed I set out to find an answer to the questions I cited earlier using statistical analysis.
+Finally I decided to create a choropleth map to show which areas of the US have had more fires per square kilometer.
 
-After the process was completed I set out to find an answer to the questions I cited earlier.
 <a name="organization"></a>
 
 ## Organization
