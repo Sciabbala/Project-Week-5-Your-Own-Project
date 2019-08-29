@@ -3,7 +3,7 @@
 # Wildfires in the US
 *Emanuele De Sanctis*
 
-*Data Analysis, Barcelona, 31-07-2019 *
+*Data Analysis, Barcelona, 31-07-2019*
 
 ## Content
 - [Project Description](#project-description)
