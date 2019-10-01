@@ -52,5 +52,5 @@ I created a trello board for general planning and of course created a repository
 ## Links
 
 [Repository](https://github.com/Sciabbala/Project-Week-5-Your-Own-Project)  
-[Slides](https://slides.com/)  
+[Slides](https://slides.com/emanueledesanctis/deck-2/live#/)  
 [Trello](https://trello.com/b/DSAv1D61/project-4-us-wildfires)  
