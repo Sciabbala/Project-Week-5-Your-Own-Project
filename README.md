@@ -16,13 +16,12 @@
 <a name="project-description"></a>
 
 ## Project Description
-The objective of the project is to conduct a general analysis of the huge number of wildfires in the U.S. and to determine if factors such as the time of the year and the cause of the fire influence the characteristics of a wildfire.
-
+The objective of the project is to conduct a general analysis of the huge number of wildfires in the U.S. and to determine if factors such as the time of the year and the cause of the fire influence the area burned by a wildfire.
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-- Are wildfires more dangerous in the summer? That is, is the mean area burned by a wildfire higher if said wildfire happens during the summertime?
-- Does the cause of a wildfire influence that same mean area?
+- Are wildfires more dangerous in the summer? That is, is the mean area burned by a wildfire wider if said wildfire happens during the summertime?
+- Is the area burned by a wildfire related to its cause?
 
 
 <a name="dataset"></a>
@@ -37,8 +36,8 @@ Citation: Short, Karen C. 2017. Spatial wildfire occurrence data for the United 
 <a name="workflow"></a>
 
 ## Workflow
-I have found a very detailed and clean dataset and cleaned it further to keep only the information that were required by my analysis. 
-I then conducted a general exploratory analysis and basic plotting to better understand the evolution of the phenomenon through the years and to get a better idea about which kind of information I was working with.
+I have found a very detailed dataset and I cleaned it to remove the information that were not required for my analysis. 
+I then conducted a general exploratory analysis using basic plotting to better understand the evolution of the phenomenon through the years and to get a better idea about what kind of information I was working with.
 After the process was completed I set out to find an answer to the questions I cited earlier using statistical analysis.
 Finally I decided to create a choropleth map to show which areas of the US have had more fires per square kilometer. The choropleth map can be found [here.](https://sciabbala.github.io/)
 
