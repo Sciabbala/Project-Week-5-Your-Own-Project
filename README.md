@@ -40,7 +40,7 @@ Citation: Short, Karen C. 2017. Spatial wildfire occurrence data for the United 
 I have found a very detailed and clean dataset and cleaned it further to keep only the information that were required by my analysis. 
 I then conducted a general exploratory analysis and basic plotting to better understand the evolution of the phenomenon through the years and to get a better idea about which kind of information I was working with.
 After the process was completed I set out to find an answer to the questions I cited earlier using statistical analysis.
-Finally I decided to create a choropleth map to show which areas of the US have had more fires per square kilometer.
+Finally I decided to create a choropleth map to show which areas of the US have had more fires per square kilometer. The choropleth map can be found [here.](https://sciabbala.github.io/)
 
 <a name="organization"></a>
 
@@ -53,4 +53,5 @@ I created a trello board for general planning and of course created a repository
 
 [Repository](https://github.com/Sciabbala/Project-Week-5-Your-Own-Project)  
 [Slides](https://slides.com/emanueledesanctis/deck-2/live#/)  
-[Trello](https://trello.com/b/DSAv1D61/project-4-us-wildfires)  
+[Trello](https://trello.com/b/DSAv1D61/project-4-us-wildfires)
+[Map](https://sciabbala.github.io/)
